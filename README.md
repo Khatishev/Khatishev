@@ -14,4 +14,4 @@ Frontend-ом я интересовался давно, но решительн�
 <h3>Контакты</h3>
 <a href="https://www.github.com/Khatishev"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"></a>
 <a href="https://t.me/Bihan1997" rel="nofollow"><img         src="https://camo.githubusercontent.com/d0c56a73e3ac4a5b9c78b3c6191229ac20246653b38b1a435dfbeca368aa093b/68747470733a2f2f7777772e6469676973656c6c65722e72752f707265766965772f3832393330332f70315f333135383332385f39386137363464662e706e67" width="32" height="32" data-canonical-src="https://www.digiseller.ru/preview/829303/p1_3158328_98a764df.png"></a>&nbsp;
-<a href="tymxorn.1@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Gmail"></a>
+<a href="[mailto:your-email@example.com](https://mail.google.com/mail/u/0/#inbox)"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Gmail"></a>
