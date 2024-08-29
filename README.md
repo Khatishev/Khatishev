@@ -14,4 +14,3 @@
 <a href="https://www.github.com/Khatishev"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"></a>
 <a href="https://t.me/Bihan1997" rel="nofollow"><img width="32" height="32" src="https://www.digiseller.ru/preview/829303/p1_3158328_98a764df.png"></a>&nbsp;
 <a href="mailto:tymxorn.1@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Gmail"></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)
