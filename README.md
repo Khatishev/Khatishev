@@ -16,4 +16,4 @@
 <a href="mailto:tymxorn.1@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Gmail"></a>
 <h3>Используемые языки</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khatishev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khatishev&layout=radio)
